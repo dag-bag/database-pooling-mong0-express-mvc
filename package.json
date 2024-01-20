@@ -1,0 +1,27 @@
+{
+  "name": "09tut",
+  "version": "1.0.0",
+  "description": "Express tutorial",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Dave Gray",
+  "license": "ISC",
+  "dependencies": {
+    "bull": "^4.12.2",
+    "bullmq": "^5.1.3",
+    "casual": "^1.6.2",
+    "cors": "^2.8.5",
+    "date-fns": "^2.23.0",
+    "express": "^4.17.1",
+    "faker": "^6.6.6",
+    "mongoose": "^8.1.0",
+    "redis": "^4.6.12",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

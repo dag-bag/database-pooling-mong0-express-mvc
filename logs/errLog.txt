@@ -1,0 +1,1 @@
+20240120	15:03:47	409a4088-d682-4443-84db-6d2a998c6026	TypeError: data.employees is not iterable
